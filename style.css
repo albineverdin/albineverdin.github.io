@@ -57,21 +57,24 @@ body {
 }
 
 .container {
-	margin: 15vh 250px;
-	display: flex;
-	flex-direction: column;
+	height: 100vh;
+	display: grid;
+	grid-template-columns: 1fr 1fr;
 	align-items: center;
 }
-
-
 
 .container p {
 	color: #d92640;
 }
 
+.text-div {
+	margin-top: -10%;
+	padding-left: 30%;
+}
+
 #tt-1 {
 	font-family: "nautica";
-	font-size: 200px;
+	font-size: 100px;
 }
 
 
@@ -80,5 +83,20 @@ body {
 	font-size: 24px; 
 }
 
+.img-div img {
+	margin-left: -20%;
+	max-width: 40%;
+}
 
 
+.footer {
+	text-align: center;
+	background-color: #d92640;
+	display: flex;
+	justify-content: center;
+}
+
+.footer img {
+	margin: 20px 10px;
+	filter: invert(82%) sepia(46%) saturate(77%) hue-rotate(302deg) brightness(101%) contrast(93%);
+}
