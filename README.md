@@ -1,2 +1,7 @@
-WIP
-Personal website :3 
+# 🧸 albineverdin.se
+
+One day I might develop my personal website and portfolio... 
+Today, however, I'm having pepsi and rewatching Mr Magoriums Wonder Emporium ✨
+
+💌 WIP
+
